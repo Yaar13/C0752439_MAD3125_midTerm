@@ -17,15 +17,14 @@
         android:layout_marginTop="150dp"/>
 
     <TextView
+        android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
-        android:text="Parag Garg : C0752439"
-        android:id="@+id/name"
-        android:background="#4287f5"
         android:layout_below="@+id/satellites"
         android:layout_marginTop="30dp"
+        android:background="#4287f5"
         android:gravity="center"
-        />
+        android:text="Parag Garg :: C0752439"
+        android:textSize="20sp" />
 
 </RelativeLayout>
