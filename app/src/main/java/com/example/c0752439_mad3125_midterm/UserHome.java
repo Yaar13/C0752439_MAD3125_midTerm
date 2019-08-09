@@ -139,8 +139,6 @@ public class UserHome extends AppCompatActivity implements DataAdapter.onClickLi
             startActivity(new Intent(UserHome.this,UserLogin.class));
             return true;
         }
-
-
         return super.onOptionsItemSelected(item);
     }
     @Override
