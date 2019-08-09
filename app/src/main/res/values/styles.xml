@@ -10,5 +10,5 @@
     !-- Splash Screen -->
     <style name="SplashScreen" parent="Theme.AppCompat.Light.NoActionBar">
     </style>
-    
+
 </resources>
