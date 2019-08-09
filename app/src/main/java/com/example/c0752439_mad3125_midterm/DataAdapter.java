@@ -17,6 +17,7 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.DataViewHolder
     private LayoutInflater inflater;
     Context context;
 
+    
     private onClickListener clickListener;
     private List<DataModel> dataList;
 
