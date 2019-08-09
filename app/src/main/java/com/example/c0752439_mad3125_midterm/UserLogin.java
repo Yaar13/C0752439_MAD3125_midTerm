@@ -80,6 +80,7 @@ public class UserLogin extends AppCompatActivity {
                         dialog.cancel();
                     }
                 });
+
         alertDialog.show();
     }
 }
